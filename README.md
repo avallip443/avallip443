@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arathi!</h1>
 <h3 align="center">I'm a CS student from Toronto</h3>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring** and **React Native**
 
 - 👨‍💻 My portfolio can be viewed at **https://avallipuranathan.netlify.app/**
 
