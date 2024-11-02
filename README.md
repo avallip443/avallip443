@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring** and **React Native**
 
-- 👨‍💻 My portfolio can be viewed at **https://avallipuranathan.netlify.app/**
+- 👨‍💻 My portfolio can be viewed at **https://avallip.vercel.app/**
 
 - 📫 How to reach me **avallipuranathan@gmail.com**
 
