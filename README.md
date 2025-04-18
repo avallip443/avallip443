@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, i'm arathi!</h1>
+<h1 align="center">👋 hi, i'm arathi!</h1>
 
 <h3 align="left">😸 a bit about me</h3>
 
