@@ -4,7 +4,6 @@
 
 - 🏫 i'm a **computer science student** @ toronto metropolitan university
 - 👨‍💻 my portfolio can be viewed @ **https://avallip.vercel.app/**
-- 🤝 connect with me @ https://www.linkedin.com/in/avallip/
 
 <h3 align="left">🛠️ i enjoy working with:</h3>
 
